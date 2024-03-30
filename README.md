@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @py-th-on 
 - 👀 I’m interested in learning programming languages and to discover the universe
-- 🌱 I’m currently learning the programming languages Python and Java
-- 💞️ I’m looking to collaborate on ...
+- 👨🏼‍💻 I’m currently learning the programming languages Python and Java
 - 📫 How to reach me danijel20.kuzmanovic@gmail.com
-- 😄 Pronouns: dev/olopping
+- 😄 Pronouns: dev/olope
 - ⚡ Fun fact: I like to see things in a other direction.
 
 <!---
